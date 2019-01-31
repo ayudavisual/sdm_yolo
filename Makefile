@@ -1,5 +1,5 @@
-GPU=1
-CUDNN=0
+GPU=1#esta quitarla en maquina local
+CUDNN=1# y esta tambien
 OPENCV=1
 OPENMP=0
 DEBUG=0
